@@ -5,5 +5,5 @@ semantic-ui-kit
 
 Semantic empowers designers and developers by creating a language for sharing UI. These Sketch 3 [bohemiancoding.com/sketch] symbols replicate the Semantic UI elements.  
 
-![](https://github.com/mikefats/semantic-ui-kit/blob/master/Screenshot%202014-04-29%2010.22.36.png)
+![](https://github.com/mikefats/semantic-ui-kit/blob/master/Screenshot%202014-04-29%2010.22.36.png?raw=true)
 
