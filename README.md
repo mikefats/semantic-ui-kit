@@ -9,7 +9,7 @@ Semantic empowers designers and developers by creating a language for sharing UI
 
 ## Download
 
-![](https://raw.githubusercontent.com/mikefats/semantic-ui-kit/master/readme%20assets/icon-sketch.png Sketch 3 [.sketch file](https://github.com/mikefats/semantic-ui-kit/tree/master/semantic-ui%20kit.sketch)
+![](https://raw.githubusercontent.com/mikefats/semantic-ui-kit/master/readme%20assets/icon-sketch.png) Sketch 3 [.sketch file](https://github.com/mikefats/semantic-ui-kit/tree/master/semantic-ui%20kit.sketch)
 
 ![](https://raw.githubusercontent.com/mikefats/semantic-ui-kit/master/readme%20assets/icon-ai.png) Adobe Illustrator: *not yet available*
 
