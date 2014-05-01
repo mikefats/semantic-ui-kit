@@ -1,7 +1,7 @@
 semantic-ui-kit
 ===============
 
-[Semantic UI](http://semantic-ui.com/) elements re-drawn in [Sketch 3](http://bohemiancoding.com/sketch/):
+[Semantic UI](http://semantic-ui.com/) elements re-drawn as vector graphics for quick mockups.
 
 Semantic empowers designers and developers by creating a language for sharing UI. These **vector graphics** are replicas of the Semantic UI elements.  
 
