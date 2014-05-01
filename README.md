@@ -5,7 +5,7 @@ semantic-ui-kit
 
 Semantic empowers designers and developers by creating a language for sharing UI. These **vector graphics** are replicas of the Semantic UI elements.  
 
-![](https://github.com/mikefats/semantic-ui-kit/blob/master/Screenshot%202014-04-29%2010.22.36.png?raw=true)
+![](https://github.com/mikefats/semantic-ui-kit/blob/master/readme%20assets/iScreenshot%202014-04-29%2010.22.36.png?raw=true)
 
 ## Download
 
