@@ -3,7 +3,7 @@ semantic-ui-kit
 
 [Semantic UI](http://semantic-ui.com/) elements re-drawn as vector graphics for quicker interface mockups.
 
-![](https://raw.githubusercontent.com/mikefats/semantic-ui-kit/master/readme%20assets/Screenshot%202014-04-29%2010.22.36.png)
+![](https://raw.githubusercontent.com/mikefats/semantic-ui-kit/master/readme%20assets/screenshot.png)
 
 ## Download
 
