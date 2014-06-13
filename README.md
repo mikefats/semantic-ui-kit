@@ -1,7 +1,7 @@
 semantic-ui-kit
 ===============
 
-[Semantic UI](http://semantic-ui.com/) elements re-drawn as vector graphics for quicker interface mockups.
+Sticker sheet of [Semantic UI](http://semantic-ui.com/) elements for quick interface mockups in your sketching apps.
 
 ![](https://raw.githubusercontent.com/mikefats/semantic-ui-kit/master/readme%20assets/screenshot.png)
 
